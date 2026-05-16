@@ -1,0 +1,1 @@
+export default function Payment(){return <section className="hero"><div className="container hero-inner"><p className="kicker">Resources</p><h1>Payment Options</h1><p className="lead">Add payment information, accepted methods, and financing links here.</p></div></section>}

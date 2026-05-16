@@ -1,0 +1,1 @@
+export default function Book(){return <section className="hero"><div className="container hero-inner"><p className="kicker">Book Appointment</p><h1>Schedule a Procedure or Consultation</h1><p className="lead">This page is ready to connect to your appointment workflow or PetDesk booking link.</p></div></section>}

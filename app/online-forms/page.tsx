@@ -1,0 +1,1 @@
+export default function Forms(){return <section className="hero"><div className="container hero-inner"><p className="kicker">Resources</p><h1>Online Forms</h1><p className="lead">New Client Form, Pet Owner Form, and Veterinarian Referral Form links can be connected here.</p></div></section>}
